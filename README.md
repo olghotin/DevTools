@@ -1,39 +1,39 @@
 Take a screenshot of the video of the task.
 
-https://youtu.be/8IRLN_2hA6E
+<a href="https://youtu.be/8IRLN_2hA6E" target="_blank" rel="noreferrer"> <img src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" alt="DevTools" width="50" height="50"/> </a> DevTools_HomeWork
 
- 1. Open Chrome DevTools
+ 1. Open Chrome DevTools (F12)
  2. Go to the Elements panel.
- 3. Find the Submit button with the inspector and align the word Submit to the c    enter
- 4. Enable mobile device mode (Device Mode)
- 5. Set Dimensions: Responsive
- 6. Select Responsive - Mobile
- 7. Demonstrate Responsive design work
+ 3. Find the Submit button with the inspector and align the word Submit to the center.
+ 4. Enable mobile device mode (Device Mode).
+ 5. Set Dimensions: Responsive.
+ 6. Select Responsive - Mobile.
+ 7. Demonstrate Responsive design work.
  8. Set Dimensions: Adaptive (select device).
  9. Create your device.
- 10. Set Throttling low-end mobile
- 11. Refresh page
+ 10. Set Throttling low-end mobile.
+ 11. Refresh page.
  12. Switch to landscape mode.
- 13. Turn off Device Mode
+ 13. Turn off Device Mode.
  14. Open the Console panel.
- 15. Find 2 Error messages in the logs
+ 15. Find 2 Error messages in the logs.
  16. Save these 2 log messages as a file on your computer.
- 17. Find 1 verbose message
+ 17. Find 1 verbose message.
  18. Scroll through the Warnings, Info, User Messages logs.
  19. Open the Sources tab.
- 20. Open index file
- 21. Open the Network tab
+ 20. Open index file.
+ 21. Open the Network tab.
  22. In url send send http://162.55.220.72:5005/object_info_3?age=32&salary=1000&name=name
  28. Expand all JSON nesting levels.
  29. Open the Application tab.
  30. Expand all Storage in the left column.
- 31. Go to Cache Storage and Application Cache
+ 31. Go to Cache Storage and Application Cache.
  32. It will be empty everywhere.
  33. Open any site you want.
- 34. Open the LightHouse tab
- 35. Click Generate report
- 36. Install free AdBlocker in your browser
- 37. Install Json Viewer in Browser
+ 34. Open the LightHouse tab.
+ 35. Click Generate report.
+ 36. Install free AdBlocker in your browser.
+ 37. Install Json Viewer in Browser.
  38. Go to the site https://ksendzov.com
  39. Make and save a screenshot of the visible part of the site page.
  40. Take and save a screenshot of the entire site.
